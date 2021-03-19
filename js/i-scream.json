@@ -36,6 +36,29 @@
         "candy sprinkles"
       ],
       "image" : "strawberry-sprinkle.svg"
+    },
+    {
+      "name" : "xtra1",
+      "calories" : 450,
+      "type" : "Frozen Yogurt",
+      "ingredients" : [
+        "wild strawberies",
+        "milk chocolate dip",
+        "candy sprinkles"
+      ],
+      "image" : "ice-cream-xtra1.svg"
+    },
+    {
+      "name" : "xtra2",
+      "calories" : 450,
+      "type" : "Frozen Yogurt",
+      "ingredients" : [
+        "wild strawberies",
+        "milk chocolate dip",
+        "candy sprinkles"
+      ],
+      "image" : "ice-cream-xtra2.svg"
     }
+    
   ]
 }
