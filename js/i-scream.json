@@ -38,24 +38,24 @@
       "image" : "strawberry-sprinkle.svg"
     },
     {
-      "name" : "xtra1",
-      "calories" : 450,
-      "type" : "Frozen Yogurt",
+      "name" : "Confetti Riddeled Slime Balls",
+      "calories" : 6000,
+      "type" : "Congealed Slime",
       "ingredients" : [
-        "wild strawberies",
-        "milk chocolate dip",
-        "candy sprinkles"
+        "organic ranched slime",
+        "multi-coloured parchement confetti",
+        "health deposit od swamp moss"
       ],
       "image" : "ice-cream-xtra1.svg"
     },
     {
-      "name" : "xtra2",
-      "calories" : 450,
-      "type" : "Frozen Yogurt",
+      "name" : "Glazed Custard Craziness",
+      "calories" : -40 ,
+      "type" : "Chilled Custard",
       "ingredients" : [
-        "wild strawberies",
-        "milk chocolate dip",
-        "candy sprinkles"
+        "devon custard",
+        "milk chocolate chunks",
+        "spray preservative additive calorie reducer"
       ],
       "image" : "ice-cream-xtra2.svg"
     }
